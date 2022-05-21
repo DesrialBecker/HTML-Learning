@@ -11,6 +11,6 @@
     	<h1>Sibling to p, but also grandchild of body</h1>
     	<p>Sibling to h1, but also grandchild of body</p>
     	<p>This paragraph is a child of the div element and a grandchild of the body element</p>
-
+    </div>
 </body>
 </html>
